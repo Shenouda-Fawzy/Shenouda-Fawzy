@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 
 # Hello World! 👋
 
-
-**Shenouda-Fawzy/Shenouda-Fawzy** is a ✨ _special_ ✨ repository.
-
 > _Big things are built from small pieces, So I love to build them in an efficient manner by applying the appropriate  Algorithms, DS and Design patterns_  
 
 I'm a **Backend Engineer**, I’ve tried different technology stacks, Android with Java, Backend with php, .NET and Java. Design with HTML, CSS, JS and Bootstrap, Implemented basics DS like Stack, Queue, Linkedlist … etc.
