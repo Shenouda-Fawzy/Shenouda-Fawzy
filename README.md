@@ -22,7 +22,7 @@ I'm a **Backend Engineer**, I’ve tried different technology stacks, Android wi
 
 _I Know how to write dirty code because it’s easy and I’ve written it before, Now I’m Clean._
 
-My daily work OS Linux/Ubuntu,And my personal OS is Windows
+My daily work OS Linux/Ubuntu, and my personal OS is Windows
 
 - 🔭 I’m currently Backend Engineer works with Golang and Docker
 - 🌱 I’m currently learning `TypeScript`
