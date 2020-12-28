@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 # Hello World! 👋
 
-> _Big things are built from small pieces, So I love to build them in an efficient manner by applying the appropriate  Algorithms, DS and Design patterns_  
+> _Big things are built from small pieces, so I love to build them in an efficient manner by applying the appropriate  Algorithms, DS and Design patterns_  
 
 I'm a **Backend Engineer**, I’ve tried different technology stacks, Android with Java, Backend with php, .NET and Java. Design with HTML, CSS, JS and Bootstrap, Implemented basics DS like Stack, Queue, Linkedlist … etc.
 
-_I Know how to write dirty code because it’s easy and I’ve written it before, Now I’m Clean._
+_I Know how to write dirty code because it’s easy and I’ve written it before, now I’m clean._
 
 My daily work OS Linux/Ubuntu, and my personal OS is Windows
 
