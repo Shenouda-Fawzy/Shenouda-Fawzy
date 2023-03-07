@@ -24,5 +24,5 @@ Everywhile I try to build a small side project to learn new concept or tool. Suc
 My daily work OS Linux/Ubuntu, and my personal OS is Windows
 
 - 🔭 I used to use Docker for some dev works
-- 🌱 I’m currently learning Distributed systems and AWS
+- 🌱 I’m currently learning Distributed systems and Azure
 - 📫 How to reach me: [Shenouda Fawzy](https://www.linkedin.com/in/shenoudafawzy/), [@shenoudafawzi](https://twitter.com/ShenoudaFawzi)
