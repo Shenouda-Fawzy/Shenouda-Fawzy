@@ -25,4 +25,4 @@ My daily work OS Linux/Ubuntu, and my personal OS is Windows
 
 - 🔭 I used to use Docker for some dev works
 - 🌱 I’m currently learning Distributed systems and Azure
-- 📫 How to reach me: [Shenouda Fawzy](https://www.linkedin.com/in/shenoudafawzy/), [@shenoudafawzi](https://twitter.com/ShenoudaFawzi)
+- 📫 How to reach me: [Shenouda Fawzy](https://www.linkedin.com/in/shenoudafawzy/)
